@@ -1,1 +1,1 @@
-# .github
+# Sentinel Shield LLC
